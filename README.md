@@ -1,5 +1,5 @@
 # WELCOME TO DELILAH'S CUT
-<img src="./Unpackaged Delilah's Cut/Main_Files/Assets/Delilah's_Cut_Logo.png" alt="Delilah's Cut Logo" width="100"/>
+<img src="./Unpackaged Delilah's Cut/Main_Files/Assets/Delilah's_Cut_Logo.png" alt="Delilah's Cut Logo" width="250"/>
 
 
 
