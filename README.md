@@ -1,5 +1,6 @@
-# WELCOME TO DELILAH's CUT
-![Delilah's Cut Logo](./Unpackaged%20Delilah's%20Cut/Main_Files/Assets/Delilah's_Cut_Logo.png "Delilah's Cut Logo")
+# WELCOME TO DELILAH'S CUT
+<img src="./Unpackaged Delilah's Cut/Main_Files/Assets/Delilah's_Cut_Logo.png" alt="Delilah's Cut Logo" width="100"/>
+
 
 
 ## Installation
