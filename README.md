@@ -7,7 +7,9 @@
 
 As of now, Delilah's Cut is available for all Windows machines but has a requirement of Python being installed on the machine. To install python, go to python.org/downloads. 
 
-To use the recommended .exe version, simply copy the "Delilahs's Cut siRNA Design" folder to wherever you would like on your machine. Within that folder is the .exe, and all you need to do is double-click to start the program. The folders adjacent to the .exe are used for file input and output.
+To use the recommended .exe version, simply download this github repository, and retain the "Delilahs's Cut siRNA Design" folder to wherever you would like on your machine. The "Unpackaged Delilah's Cut" folder and the readme are unnecessary and can be deleted. 
+
+Within the "Delilah's cut siRNA Deisgn" folder is the .exe, and all you need to do is double-click to start the program. The folders adjacent to the .exe are used for file input and output.
 
 A video tutorial covering installation as well as usage can be found at this link: https://youtu.be/1NEDxi6y2q4
 
@@ -16,7 +18,7 @@ A video tutorial covering installation as well as usage can be found at this lin
 
 If you wish to make any edits to the program files yourself, such as adding additional functions to analyze siRNA (Maybe you want to see a G in position 6 or anything like that). You can do so and then repackage. 
 To do this:
-1. Make any necessary edits to the code
+1. Make any necessary edits to the code (including updating file locations in main.spec file)
 2. Activate the provided virtual environment (venv) (command: venv\Scripts\Activate)
 3. Navigate to the "Main_Files" directory in terminal
 4. Run "pyinstaller main.spec"
